@@ -13,7 +13,7 @@ class ajmal
 	
 	function __construct()
 	{
-		echo 'ajmal';
+		echo 'ajmal sarim how are you man';
 	}
 }
 
